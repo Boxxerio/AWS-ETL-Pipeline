@@ -10,3 +10,4 @@ Create a end to end pipeline.
 7. We create a Lamda trigger function.
 8. Before running the job we provide all the policies related to AWS Glue and AWS Lamda for the IAM user to run the job and won't be denied permission.
 9. Job is successfully run.
+<img width="1871" height="155" alt="image" src="https://github.com/user-attachments/assets/40ec26e1-366a-4b45-ba60-cc409bfa0821" />
